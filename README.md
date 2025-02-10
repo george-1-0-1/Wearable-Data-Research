@@ -12,7 +12,6 @@ Time Series Analysis of Heart Rate for Stress Prognosis in Mobile Video Game Gen
 ## Overview of the PatchTST model architecture 
 
 ![image](https://github.com/user-attachments/assets/17466974-8452-4dd2-95a9-e8fd7cc06e8a)
-![image](https://github.com/user-attachments/assets/85a42944-e23d-46fa-96e5-ec3c3720d50b)
 
 ## Data Collection and Preprocessing
 
